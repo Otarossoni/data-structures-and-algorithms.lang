@@ -1,0 +1,25 @@
+name: Run Typescript Tests
+
+on: [push]
+
+jobs:
+  run-typescript-tests:
+    name: Run Typescript Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Prepare code
+        uses: actions/checkout@v3
+
+      - name: Prepare Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22
+
+      - name: Install packages
+        run: npm ci
+        working-directory: ./tests/typescript
+
+      - name: Run tests
+        run: npm run test
+        working-directory: ./tests/typescript

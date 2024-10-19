@@ -1,0 +1,14 @@
+{
+  "name": "typescript-tests",
+  "scripts": {
+    "test": "vitest run --dir tests",
+    "test:watch": "vitest --dir tests"
+  },
+  "devDependencies": {
+    "@types/node": "22.7.7",
+    "typescript": "5.6.3"
+  },
+  "dependencies": {
+    "vitest": "2.1.3"
+  }
+}

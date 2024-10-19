@@ -1,4 +1,4 @@
-![Banner](/assets/dsa-lang.svg)
+![Banner](/@assets/dsa-lang.svg)
 
 > Alguns algoritmos e estruturas de dados estudados.
 
@@ -18,7 +18,7 @@ data-structures-and-algorithms.lang/
 │   │   │   ├── {algorithm}.ts
 │   │   │   ├── {algorithm}.go
 │   │   │   └── {algorithm}.md
-│   ├── searching/
+│   ├── search/
 │   │   ├── {algorithm}/
 │   │   │   ├── {algorithm}.ts
 │   │   │   ├── {algorithm}.go
