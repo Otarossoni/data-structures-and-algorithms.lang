@@ -6,6 +6,7 @@ Cada novo algoritmo ou estrutura de dados aprendida é catalogada juntamente com
 
 #### Estrutura
 
+```textplain
 data-structures-and-algorithms.lang/
 ├── algorithms/
 │   ├── sorting/
@@ -43,4 +44,5 @@ data-structures-and-algorithms.lang/
 │       ├── {algorithm}.spec.go
 │       └── {data_structure}.spec.go
 └── README.md
+```
 
