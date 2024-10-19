@@ -20,8 +20,8 @@ function binarySearch<T> (list: T[], target: T): number {
   return -1
 }
 
-const list = [10, 20, 30, 40, 50]
+const binarySearchList = [10, 20, 30, 40, 50]
 
-console.log(binarySearch(list, 0))
-console.log(binarySearch(list, 10))
-console.log(binarySearch(list, 50))
+console.log(binarySearch(binarySearchList, 0))
+console.log(binarySearch(binarySearchList, 10))
+console.log(binarySearch(binarySearchList, 50))
