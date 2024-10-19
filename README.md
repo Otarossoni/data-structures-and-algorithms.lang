@@ -1,4 +1,4 @@
-![Descrição do GIF](/assets/dsa-lang.svg)
+![Banner](/assets/dsa-lang.svg)
 
 > Alguns algoritmos e estruturas de dados estudados.
 
