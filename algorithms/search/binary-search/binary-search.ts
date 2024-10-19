@@ -1,4 +1,4 @@
-export function binarySearch<T> (list: T[], target: T): number {
+function binarySearch<T> (list: T[], target: T): number {
   let low = 0
   let high = list.length - 1
 
@@ -19,3 +19,9 @@ export function binarySearch<T> (list: T[], target: T): number {
   
   return -1
 }
+
+const list = [10, 20, 30, 40, 50]
+
+console.log(binarySearch(list, 0))
+console.log(binarySearch(list, 10))
+console.log(binarySearch(list, 50))
