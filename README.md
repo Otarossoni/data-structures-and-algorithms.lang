@@ -28,14 +28,15 @@ data-structures-and-algorithms.lang/
 │   │   │   ├── {algorithm}.go
 │   │   │   └── {algorithm}.md
 ├── data_structures/
-│   ├── {data_structure}/
-│   │   ├── {data_structure}.ts
-│   │   ├── {data_structure}.go
-│   │   └── {data_structure}.md
-│   ├── {data_structure}/
-│   │   ├── {data_structure}.ts
-│   │   ├── {data_structure}.go
-│   │   └── {data_structure}.md
+│   ├── linear/
+│   │   ├── {data_structure}/
+│   │   │   ├── {data_structure}.ts
+│   │   │   ├── {data_structure}.go
+│   │   │   └── {data_structure}.md
+│   │   ├── {data_structure}/
+│   │   │   ├── {data_structure}.ts
+│   │   │   ├── {data_structure}.go
+│   │   │   └── {data_structure}.md
 └── README.md
 ```
 
