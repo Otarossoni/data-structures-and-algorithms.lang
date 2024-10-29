@@ -36,13 +36,6 @@ data-structures-and-algorithms.lang/
 │   │   ├── {data_structure}.ts
 │   │   ├── {data_structure}.go
 │   │   └── {data_structure}.md
-├── tests/
-│   ├── typescript/
-│   │   ├── {algorithm}.spec.ts
-│   │   └── {data_structure}.spec.ts
-│   └── go/
-│       ├── {algorithm}.spec.go
-│       └── {data_structure}.spec.go
 └── README.md
 ```
 
