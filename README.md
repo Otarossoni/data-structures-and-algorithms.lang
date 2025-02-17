@@ -37,6 +37,16 @@ data-structures-and-algorithms.lang/
 │   │   │   ├── {data_structure}.ts
 │   │   │   ├── {data_structure}.go
 │   │   │   └── {data_structure}.md
+├── exercises/
+│   ├── {platform_name}/
+│   │   ├── {exercise_identification}/
+│   │   │   ├── {exercise_identification}.go
+│   │   │   └── {exercise_identification}.js
+│   │   │   ├── {exercise_identification}.ts
+│   │   ├── {exercise_identification}/
+│   │   │   ├── {exercise_identification}.go
+│   │   │   └── {exercise_identification}.js
+│   │   │   ├── {exercise_identification}.ts
 └── README.md
 ```
 
