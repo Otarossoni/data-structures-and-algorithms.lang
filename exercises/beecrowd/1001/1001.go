@@ -1,3 +1,4 @@
+// https://judge.beecrowd.com/pt/problems/view/1001
 package main
 
 import "fmt"

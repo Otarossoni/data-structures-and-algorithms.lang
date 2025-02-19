@@ -1,3 +1,4 @@
+// https://judge.beecrowd.com/pt/problems/view/1001
 import * as fs from 'fs';
 
 const input = fs.readFileSync('/dev/stdin', 'utf8');
