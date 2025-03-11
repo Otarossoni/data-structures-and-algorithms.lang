@@ -8,7 +8,7 @@ function main(): void {
 	const value = Number(lines.shift());
   
 	if (value > 1000000) {
-		throw new Error("Max value exceed");
+		return;
 	}
   
 	const result: Record<number, number> = {
