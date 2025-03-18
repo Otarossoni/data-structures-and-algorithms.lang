@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/two-sum/description/
 function twoSum(nums: number[], target: number): number[] {
     const pMap: Record<number, number> = {};
 

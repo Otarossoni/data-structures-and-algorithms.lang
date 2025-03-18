@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/binary-search/description/
+
 package main
 
 func search(nums []int, target int) int {

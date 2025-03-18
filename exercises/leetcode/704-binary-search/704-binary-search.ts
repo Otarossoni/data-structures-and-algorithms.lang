@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/binary-search/description/
+
 function search (list: number[], target: number): number | null {
 	let low = 0
 	let high = list.length - 1
