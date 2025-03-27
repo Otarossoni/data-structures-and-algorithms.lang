@@ -1,4 +1,4 @@
-// https://judge.beecrowd.com.br/judge/pt/problems/view/1045
+// https://judge.beecrowd.com/pt/problems/view/1045
 package main
 
 import (
