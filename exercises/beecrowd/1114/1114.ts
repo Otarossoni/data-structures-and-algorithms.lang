@@ -12,7 +12,6 @@ function main(): void {
       console.log("Senha Invalida");
     }
   }
-
 }
 
 main();
