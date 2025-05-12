@@ -1,4 +1,4 @@
-// https://judge.beecrowd.com/pt/problems/view/1114
+// https://judge.beecrowd.com/pt/problems/view/1115
 package main
 
 import "fmt"
