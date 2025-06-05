@@ -1,4 +1,4 @@
-// https://judge.beecrowd.com/pt/problems/view/1144
+// https://judge.beecrowd.com/pt/problems/view/1145
 import * as fs from "fs";
 
 function main(): void {
