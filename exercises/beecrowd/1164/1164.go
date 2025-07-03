@@ -7,10 +7,10 @@ import (
 )
 
 func main() {
-	var numTestCases int
-	fmt.Scan(&numTestCases)
+	var nums int
+	fmt.Scan(&nums)
 
-	for i := 0; i < numTestCases; i++ {
+	for i := 0; i < nums; i++ {
 		var num int
 		fmt.Scan(&num)
 

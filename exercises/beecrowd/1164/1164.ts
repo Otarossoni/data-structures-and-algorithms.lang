@@ -9,9 +9,9 @@ function main(): void {
     .map(Number);
 
   let lineIndex: number = 0;
-  const numTestCases: number = lines[lineIndex++];
+  const nums: number = lines[lineIndex++];
 
-  for (let i: number = 0; i < numTestCases; i++) {
+  for (let i: number = 0; i < nums; i++) {
     const num: number = lines[lineIndex++];
 
     if (num <= 1) {
